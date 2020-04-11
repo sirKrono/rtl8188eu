@@ -36,8 +36,10 @@ consult your distro.
 
 > sudo make install
 
+> reboot
+
 Submitting Issues
----------
+--------
 
 Frequently asked Questions
 ---------
